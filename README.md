@@ -1,3 +1,3 @@
 # Classification
 
- An introduction multiclassiication algorithms
+An introduction to Machine Learning classification algorithms
